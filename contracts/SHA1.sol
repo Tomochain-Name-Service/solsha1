@@ -1,4 +1,4 @@
-pragma solidity ^0.6.0;
+pragma solidity ^0.8.0;
 
 library SHA1 {
     event Debug(bytes32 x);
