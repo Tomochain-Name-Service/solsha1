@@ -1,6 +1,6 @@
 {
-  "name": "@ensdomains/solsha1",
-  "version": "0.0.3",
+  "name": "@tomochain-name-service/solsha1",
+  "version": "0.0.4",
   "requires": true,
   "lockfileVersion": 1,
   "devDependencies": {
